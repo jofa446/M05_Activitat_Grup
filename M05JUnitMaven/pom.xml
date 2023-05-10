@@ -21,8 +21,15 @@
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+iliyan
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>com.mycompany.m05junitmaven.M05JUnitMaven</exec.mainClass>
+
+        <maven.compiler.source>16</maven.compiler.source>
+        <maven.compiler.target>16</maven.compiler.target>
+        <exec.mainClass>com.mycompany.m05junitmaven.M05junitmaven</exec.mainClass>
+ main
     </properties>
+    <name>M05JUnitMaven</name>
 </project>
